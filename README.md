@@ -1,5 +1,5 @@
 # ABC_Car_Traders
-Standalone Windows application for car sale business.
+Standalone Windows application for car sale business using C#, .NET Framework, and Windows Forms.
 
 ## Functionality
 **Admin-**
